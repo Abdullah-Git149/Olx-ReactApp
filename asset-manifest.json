@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/Olx-ReactApp/static/css/main.2710adf2.chunk.css",
+    "main.js": "/Olx-ReactApp/static/js/main.0371e129.chunk.js",
+    "main.js.map": "/Olx-ReactApp/static/js/main.0371e129.chunk.js.map",
+    "runtime-main.js": "/Olx-ReactApp/static/js/runtime-main.75a8df8c.js",
+    "runtime-main.js.map": "/Olx-ReactApp/static/js/runtime-main.75a8df8c.js.map",
+    "static/css/2.d9ad5f5c.chunk.css": "/Olx-ReactApp/static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.0f1ea5f5.chunk.js": "/Olx-ReactApp/static/js/2.0f1ea5f5.chunk.js",
+    "static/js/2.0f1ea5f5.chunk.js.map": "/Olx-ReactApp/static/js/2.0f1ea5f5.chunk.js.map",
+    "index.html": "/Olx-ReactApp/index.html",
+    "precache-manifest.834830ab49042a8726a04716f7d35df1.js": "/Olx-ReactApp/precache-manifest.834830ab49042a8726a04716f7d35df1.js",
+    "service-worker.js": "/Olx-ReactApp/service-worker.js",
+    "static/css/2.d9ad5f5c.chunk.css.map": "/Olx-ReactApp/static/css/2.d9ad5f5c.chunk.css.map",
+    "static/css/main.2710adf2.chunk.css.map": "/Olx-ReactApp/static/css/main.2710adf2.chunk.css.map",
+    "static/js/2.0f1ea5f5.chunk.js.LICENSE.txt": "/Olx-ReactApp/static/js/2.0f1ea5f5.chunk.js.LICENSE.txt",
+    "static/media/Capture.PNG": "/Olx-ReactApp/static/media/Capture.78ff6777.PNG",
+    "static/media/logo.svg": "/Olx-ReactApp/static/media/logo.5d5d9eef.svg",
+    "static/media/pic1.PNG": "/Olx-ReactApp/static/media/pic1.8505686d.PNG",
+    "static/media/pic2.jpg": "/Olx-ReactApp/static/media/pic2.ee601714.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.75a8df8c.js",
+    "static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.0f1ea5f5.chunk.js",
+    "static/css/main.2710adf2.chunk.css",
+    "static/js/main.0371e129.chunk.js"
+  ]
+}
